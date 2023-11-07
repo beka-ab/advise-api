@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/advise-api/static/css/main.9efd160a.css",
+    "main.css": "/advise-api/static/css/main.24697203.css",
     "main.js": "/advise-api/static/js/main.808b6e59.js",
     "index.html": "/advise-api/index.html",
-    "main.9efd160a.css.map": "/advise-api/static/css/main.9efd160a.css.map",
+    "main.24697203.css.map": "/advise-api/static/css/main.24697203.css.map",
     "main.808b6e59.js.map": "/advise-api/static/js/main.808b6e59.js.map"
   },
   "entrypoints": [
-    "static/css/main.9efd160a.css",
+    "static/css/main.24697203.css",
     "static/js/main.808b6e59.js"
   ]
 }
