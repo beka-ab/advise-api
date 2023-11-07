@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/beka-ab/advise-api/static/css/main.9efd160a.css",
-    "main.js": "/beka-ab/advise-api/static/js/main.808b6e59.js",
-    "index.html": "/beka-ab/advise-api/index.html",
-    "main.9efd160a.css.map": "/beka-ab/advise-api/static/css/main.9efd160a.css.map",
-    "main.808b6e59.js.map": "/beka-ab/advise-api/static/js/main.808b6e59.js.map"
+    "main.css": "/advise-api/static/css/main.9efd160a.css",
+    "main.js": "/advise-api/static/js/main.808b6e59.js",
+    "index.html": "/advise-api/index.html",
+    "main.9efd160a.css.map": "/advise-api/static/css/main.9efd160a.css.map",
+    "main.808b6e59.js.map": "/advise-api/static/js/main.808b6e59.js.map"
   },
   "entrypoints": [
     "static/css/main.9efd160a.css",
